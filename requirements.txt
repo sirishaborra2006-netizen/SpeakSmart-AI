@@ -1,0 +1,11 @@
+streamlit
+openai-whisper
+pandas
+numpy
+matplotlib
+Seaborn
+plotly
+fpdf
+Soundfile
+streamlit-mic-recorder
+reportlab
